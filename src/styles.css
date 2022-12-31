@@ -103,3 +103,8 @@ a:hover {
 a {
   color: #472183;
 }
+
+.form-control {
+  background-color: #CBEDD5;
+  border: none;
+}
