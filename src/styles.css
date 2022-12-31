@@ -108,3 +108,7 @@ a {
   background-color: #CBEDD5;
   border: none;
 }
+
+.btn-primary {
+  border: none;
+}
