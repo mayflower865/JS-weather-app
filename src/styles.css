@@ -95,12 +95,11 @@ li:first-letter {
   font-size: 15px;
 }
 
-.credit {
-  text-decoration: none;
-  color: #002661 100%;
-}
-
 a:hover {
   text-decoration: none;
   color: black;
+}
+
+a {
+  color: #472183;
 }
